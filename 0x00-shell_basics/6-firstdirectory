@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/hoiberton
+mkdir -p tmp/6-firstdirectory  
