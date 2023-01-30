@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#This script is displaying "Holberton School" 10 times using until loop
+i=0
+until ((i > 9)); do
+	echo "Best School"
+	((i+=1))
+done
