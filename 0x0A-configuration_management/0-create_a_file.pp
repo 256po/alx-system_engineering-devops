@@ -1,7 +1,7 @@
 # manifest to create file in tmp directory
-file { '/tmp/holberton':
+file { '/tmp/school':
   ensure  => file,
-  path    => '/tmp/holberton',
+  path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
