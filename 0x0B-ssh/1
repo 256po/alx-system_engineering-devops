@@ -1,0 +1,6 @@
+# school server config options
+Host *
+    IdentityFile ~/.ssh/school
+    HostName 35.196.9.108
+    User root
+  
