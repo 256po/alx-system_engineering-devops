@@ -5,5 +5,5 @@ file_line { 'disable password login':
 }
 file_line { 'add path to find the keys':
   path => '/etc/ssh/ssh_config',
-  line => 'IdentityFile ~/.ssh/holberton',
+  line => 'IdentityFile ~/.ssh/school',
 }
